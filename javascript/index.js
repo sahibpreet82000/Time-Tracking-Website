@@ -24,7 +24,7 @@ function change() {
       Work <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>5 hrs</p>
-    <p1>Last Week- 7hrs</p1>
+    <h3>Last Week- 7hrs</h3>
   </div>
 </div>
 </div>
@@ -38,7 +38,7 @@ function change() {
       Play <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>1 hrs</p>
-    <p1>Last Week- 2hrs</p1>
+    <h3>Last Week- 2hrs</h3>
   </div>
 </div>
 </div>
@@ -52,7 +52,7 @@ function change() {
       Study <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>0 hrs</p>
-    <p1>Last Week- 1hrs</p1>
+    <h3>Last Week- 1hrs</h3>
   </div>
 </div>
 </div>
@@ -66,7 +66,7 @@ function change() {
       Exercise <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>1 hrs</p>
-    <p1>Last Week- 4hrs</p1>
+    <h3>Last Week- 4hrs</h3>
   </div>
 </div>
 </div>
@@ -81,7 +81,7 @@ function change() {
       <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>1 hrs</p>
-    <p1>Last Week- 3hrs</p1>
+    <h3>Last Week- 3hrs</h3>
   </div>
 </div>
 </div>
@@ -96,7 +96,7 @@ function change() {
       <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>0 hrs</p>
-    <p1>Last Week- 1-2hrs</p1>
+    <h3>Last Week- 1-2hrs</h3>
   </div>
 </div>
 </div>`;
@@ -127,7 +127,7 @@ function change2() {
       Work <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>32 hrs</p>
-    <p1>Last Week- 36hrs</p1>
+    <h3>Last Week- 36hrs</h3>
   </div>
 </div>
 </div>
@@ -141,7 +141,7 @@ function change2() {
       Play <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>10 hrs</p>
-    <p1>Last Week- 8hrs</p1>
+    <h3>Last Week- 8hrs</h3>
   </div>
 </div>
 </div>
@@ -155,7 +155,7 @@ function change2() {
       Study <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>4 hrs</p>
-    <p1>Last Week- 7hrs</p1>
+    <h3>Last Week- 7hrs</h3>
   </div>
 </div>
 </div>
@@ -169,7 +169,7 @@ function change2() {
       Exercise <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>4 hrs</p>
-    <p1>Last Week- 5hrs</p1>
+    <h3>Last Week- 5hrs</h3>
   </div>
 </div>
 </div>
@@ -184,7 +184,7 @@ function change2() {
       <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>5 hrs</p>
-    <p1>Last Week- 10hrs</p1>
+    <h3>Last Week- 10hrs</h3>
   </div>
 </div>
 </div>
@@ -199,7 +199,7 @@ function change2() {
       <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>2 hrs</p>
-    <p1>Last Week- 2hrs</p1>
+    <h3>Last Week- 2hrs</h3>
   </div>
 </div>
 </div>`;
@@ -230,7 +230,7 @@ function change3() {
       Work <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>103 hrs</p>
-    <p1>Last Week- 128hrs</p1>
+    <h3>Last Week- 128hrs</h3>
   </div>
 </div>
 </div>
@@ -244,7 +244,7 @@ function change3() {
       Play <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>23 hrs</p>
-    <p1>Last Week- 29hrs</p1>
+    <h3>Last Week- 29hrs</h3>
   </div>
 </div>
 </div>
@@ -258,7 +258,7 @@ function change3() {
       Study <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>13 hrs</p>
-    <p1>Last Week- 19hrs</p1>
+    <h3>Last Week- 19hrs</h3>
   </div>
 </div>
 </div>
@@ -272,7 +272,7 @@ function change3() {
       Exercise <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>11 hrs</p>
-    <p1>Last Week- 18hrs</p1>
+    <h3>Last Week- 18hrs</h3>
   </div>
 </div>
 </div>
@@ -287,7 +287,7 @@ function change3() {
       <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>21 hrs</p>
-    <p1>Last Week- 23hrs</p1>
+    <h3>Last Week- 23hrs</h3>
   </div>
 </div>
 </div>
@@ -302,7 +302,7 @@ function change3() {
       <span><i class="fas fa-ellipsis-h"></i></span>
     </h2>
     <p>7 hrs</p>
-    <p1>Last Week- 11hrs</p1>
+    <h3>Last Week- 11hrs</h3>
   </div>
 </div>
 </div>`;
