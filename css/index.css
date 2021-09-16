@@ -80,7 +80,12 @@ body {
 .link-set a:hover {
   opacity: 1;
   color: white;
-  transition: all 1s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+.link-set li:nth-child(2) a{
+color: white;
+opacity: 1;
 }
 .image-box {
   display: flex;
@@ -105,6 +110,9 @@ body {
   border-radius: 20px;
   z-index: 4px;
   padding: 21px 12px;
+}
+.main-box:hover{
+  background: hsl(226, 45%, 24%);
 }
 .main-box2{
 top: -22px;
