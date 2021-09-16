@@ -20,12 +20,6 @@ body {
 .expand {
   grid-row: 1 / span 2;
 }
-.box {
-}
-.box h2 {
-}
-.box p {
-}
 .info {
   position: relative;
   height: 62%;
@@ -94,14 +88,6 @@ opacity: 1;
   position: relative;
   border-radius: 20px;
 }
-.image-box img {
-}
-.box {
-}
-.box h2 {
-}
-.box p {
-}
 .main-box {
   position: relative;
   background: hsl(235, 46%, 20%);
@@ -143,7 +129,7 @@ top: -22px;
 .main-box h2 span i:hover {
   color: white;
 }
-.main-box p1 {
+.main-box h3 {
   padding: 0px 21px;
   color: lightgrey;
   font-size: 15px;
@@ -166,16 +152,47 @@ top: -22px;
 .background-play{
  background: hsl(195, 74%, 62%)
 }
-@media(max-width:1090px){
+@media(max-width:1420px){
+  .container{
+    margin: 120px;
+  }
+}
+@media(max-width:1290px){
   .container{
     margin: 100px;
   }
   .desktop-grid{
   display: grid;
-  grid-template-columns: auto minmax(200px , 1fr);
+  grid-template-columns: 1fr;
   margin: auto;
   }
   .grid{
+    margin: auto;
+  }
+  .info img{
+    display: block;
+    margin: auto;
+    align-items: center;
+  }
+  .info p{
+   margin:0px;
+   text-align: center;
+  }
+  .info h4{
+    text-align: center;
+    margin: 0px;
+  }
+  .link-set{
+    top: -20px;
+  }
+  .link-set ul{
+    display: flex;
+    flex-direction: row;
+  }
+  .link-set ul li{
+    margin: auto;
+  }
+  .link-set a{
     margin: auto;
   }
 }
@@ -192,6 +209,9 @@ top: -22px;
     flex-direction: row;
     flex-wrap: wrap;
   }
+  .info img{
+    margin: 0px;
+  }
   .info p{
     position: absolute;
     margin-top: 0px;
@@ -203,19 +223,7 @@ top: -22px;
   .info h4{
     margin: 6px;
   }
-  .link-set{
-    top: -20px;
-  }
-  .link-set ul{
-    display: flex;
-    flex-direction: row;
-  }
-  .link-set ul li{
-    margin: auto;
-  }
-  .link-set a{
-    margin: auto;
-  }
+ 
 }
 @media(max-width:500px){
   .container{
