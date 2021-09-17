@@ -76,10 +76,12 @@ body {
   color: white;
   transition: all .5s ease-in-out;
 }
-
+#bold{
+  color: white;
+  opacity: 1;
+}
 .link-set li:nth-child(2) a{
-color: white;
-opacity: 1;
+
 }
 .image-box {
   display: flex;

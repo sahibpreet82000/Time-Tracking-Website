@@ -100,6 +100,8 @@ function change() {
   </div>
 </div>
 </div>`;
+let rem = document.getElementById('bold');
+rem.removeAttribute('id');
 }
 function change2() {
   let c = document.querySelector(".desktop-grid");
@@ -203,6 +205,8 @@ function change2() {
   </div>
 </div>
 </div>`;
+let rem = document.getElementById('bold');
+rem.removeAttribute('id');
 }
 function change3() {
   let c = document.querySelector(".desktop-grid");
@@ -306,4 +310,12 @@ function change3() {
   </div>
 </div>
 </div>`;
+let rem = document.getElementById('bold');
+if(rem.hasAttribute('id')){
+  rem.removeAttribute('id');
+}
+}
+
+function remove(){
+
 }
